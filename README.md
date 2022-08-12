@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TuanLikeminds
 - 👀 I’m interested in DevOps and Cloud Services
-- 🌱 I’m currently learning Azure cloud services
+- 🌱 I’m currently learning Azure cloud services and Kubernetes
 - 💞️ I’m looking to collaborate on Python and IAC
 - 📫 How to reach me ...
 
